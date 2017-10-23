@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>model/AeropuertoModel.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>320</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/aeropuerto/model/AeropuertoModel.php</file>
+            <file>file:/C:/xampp/htdocs/aeropuerto/view/vuelos.php</file>
+            <file>file:/C:/xampp/htdocs/aeropuerto/controller/controller.php</file>
+            <file>file:/C:/xampp/htdocs/aeropuerto/model/Database.php</file>
+            <file>file:/C:/xampp/htdocs/aeropuerto/view/paises.php</file>
+            <file>file:/C:/xampp/htdocs/aeropuerto/view/pasajes.php</file>
+        </group>
+    </open-files>
+</project-private>
