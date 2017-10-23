@@ -31,7 +31,7 @@ include_once '../model/AeropuertoModel.php';
                     </a>
                     
                 </li>
-                <li><a href="index.php" >COMPANIAS</a></li>
+                <li><a href="index.php" >COMPANIAS PRUEBA</a></li>
                 <li><a href="pasajes.php" >PASAJES</a></li>
                 <li><a href="paises.php" >PAISES</a></li>
                 <li><a href="vuelos.php" >VUELOS</a></li>
